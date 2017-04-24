@@ -16,6 +16,7 @@
 		'assessment': $('.assessment'),
 		'bestChoicesLink': $('a.best-choices'),
 		'prosConsLink': $('a.pros-cons-toggle'),
+		'persistButton': $('.btn-persist'),
 		'submitScoresLink': $('a.submit-scores'),
 		'submitScoresFrame': $('#submitScores iframe'),
 		'googleUrl': 'https://docs.google.com/forms/d/e/1FAIpQLSczR4J7OaP_sctFaQa4Civaw5b4LlVgZDY4minV8__hA44obA/viewform?embedded=true&entry.1118291326='
@@ -29,8 +30,7 @@
 		
 		elements.intro.find('button.start').click(function(e) {
 			e.preventDefault();
-			elements.intro.hide()
-			elements.quiz.show()
+			display.startQuiz();
 		});
 		
 		elements.submitButton.click(function(e) {
@@ -57,6 +57,15 @@
 			results.toggleProsCons(e)
 		});
 		
+		$('[data-toggle="popover"]').popover()
+		elements.persistButton.on('shown.bs.popover', function () {
+			$("#persistUrl")
+				.val(window.location)
+				.prop('readonly', true)
+				.on('click', function() { $(this).select() })
+				.select()
+		});
+		
 	}
 	
 
@@ -73,6 +82,7 @@
 					section = json[i]
 			    options.displaySection(i+1, section, elements.options)
 				}
+				persistence.checkUrl()
 			});
 		},
 		
@@ -113,6 +123,7 @@
 			display.summary()
 			display.grades()
 			results.prefillGoogle(results.tally(elements.quiz))
+			persistence.save()
 		},
 		
 		// Update the embedded google form iFrame to pre-populate the total score.
@@ -150,6 +161,11 @@
 			return +(tally / checked.length).toFixed(2);
 		},
 		
+		// Returns a string representing the user's selections (for URL persistence).
+		hash: function() {
+			return elements.quiz.find(':checked').map(function() { return $(this).data('uid') }).get().join(',')
+		},
+		
 		// Change the display to show all the "4" rated options.
 		showBestChoices: function(event) {
 			display.toggleControls(true)
@@ -168,6 +184,12 @@
 	//
 	var display = {
 		
+		// Prep the screen to show the quiz.
+		startQuiz: function() {
+			elements.intro.hide()
+			elements.quiz.show()
+		},
+		
 		// For a specific option (like "Latex Paint"), construct the HTML to display on the form.
 		optionElement: function(option) {
 			return $("<div>").addClass("checkbox").append(
@@ -175,7 +197,7 @@
 					$("<input>")
 						.attr('type', 'checkbox')
 						.val(option.value)
-						.attr('data-key', i)
+						.attr('data-uid', option.uid)
 				).append(
 					display.gradeElement(option)
 				)
@@ -264,6 +286,38 @@
 					.find('span.grade').show()
 			})
 		}
+	};
+	
+	// Functions related to persisting quiz result data
+	var persistence = {
+		
+		save: function() {
+			persistence.updateUrl(results.hash())
+		},
+		
+		// Provide a URL hash string or an array of uid's.
+		recall: function(h) {
+			if (h == '#selections=' || h.length == 0) return false;
+			if (typeof(h) == 'string') h = h.split('=')[1].split(',').map(function(n) { return parseInt(n) })
+			console.log("Found some selections in the URL hash - recalling results and displaying scores...")
+			results.resetQuiz()
+			$.each(h, function(index, uid) {
+				elements.quiz.find('input[data-uid=' + uid + ']').prop('checked', true)
+			})
+			display.startQuiz()
+			results.submit()
+		},
+		
+		updateUrl: function(h) {
+			window.location.hash = "selections=" + h
+		},
+		
+		checkUrl: function() {
+			if (window.location.hash.indexOf("selections=") > 0) {
+				persistence.recall(window.location.hash);
+			}
+		}
+		
 	};
 
 	init();
