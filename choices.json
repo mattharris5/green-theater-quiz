@@ -1,0 +1,970 @@
+[{
+    "title": "Paints, Adhesives and Other Surface Treatments",
+    "choices": [{
+        "text": "Paints and coatings with greater than 75% recycled content",
+        "value": 4,
+        "pros": [
+          "Some communities and local hardware stores offer recycled or off-spec paint"
+        ],
+        "cons": [
+          "Being \"off-spec\" leaves consumer to question source of product"
+        ]
+      },
+      {
+        "text": "Bead blast etching of metal and wood",
+        "value": 4,
+        "pros": [
+          "Bead blasting can impart texture to metals and woods with no additional chemical use"
+        ],
+        "cons": [
+          "Worker should use proper protective equipment; there are likely some local bead-blasting services near you"
+        ]
+      },
+      {
+        "text": "Organic milk paint",
+        "value": 4,
+        "pros": [
+          "Low VOC, Low toxicity, easy clean up"
+        ],
+        "cons": [
+          "Milk paint has a slightly perishable nature. Read labels carefully before purchasing and if buying in bulk, purchasing in powder form is advised."
+        ]
+      },
+      {
+        "text": "Natural lacquer, such as Acrylic- and water-based sealers",
+        "value": 4,
+        "pros": [
+          "Natural based ingredients low toxicity",
+          "Acrylic-based lacquers are more durable than water-based lacquer for floors"
+        ],
+        "alternatives": [
+          "Try: Vermont Natural Coatings - PolyWhey Floor Finish (35g/L VOC), Kilz Klear (89 VOC). Look for VOC levels below 250 g/L and avoid lacquers with xylene and toluene."
+        ]
+      },
+      {
+        "text": "Natural varnish",
+        "value": 4,
+        "pros": [
+          "Natural based ingredients low toxicity. Look for varnishes with VOC content of 250 g/L or less"
+        ]
+      },
+      {
+        "text": "Powder coating",
+        "value": 4,
+        "pros": [
+          "Powder coating provides a durable paint like surface with little waste and uses no harmful solvents"
+        ],
+        "cons": [
+          "To achieve a successful DIY powder-coat in a shop, one would need to cure the powder with an oven. There are tutorials on how to build such an oven, but powder-coated materials are widely available"
+        ]
+      },
+      {
+        "text": "Raw linseed oil",
+        "value": 4,
+        "pros": [
+          "It preserves and prevents deterioration of woods and/or concrete surfaces. It has low toxicity, as raw oils don't contain harmful heavy metal dryers or organic solvents"
+        ],
+        "alternatives": [
+          "Try: Lanco Raw Linseed Oil (Sold at Home Depot) or Sunnyside Raw Linseed Oil"
+        ]
+      },
+      {
+        "text": "Tung oil",
+        "value": 4,
+        "pros": [
+          "Tung oil provides a relatively hard surface finish that can provide a waterproof finish that is impervious to dust, alcohol, acetone, and various acids. It has low toxicity, as raw oils don't contain harmful heavy metal dryers or organic solvents"
+        ],
+        "cons": [
+          "Though the dried oil is relatively hard, the finish it provides is not the most durable. Tung oil is usually chosen for its aesthetic appeal rather than its wearability. Has a mildly disagreeable odor for a few days, and takes a good deal of time to dry"
+        ],
+        "alternatives": [
+          "Try: Old Masters 90008 Pure Tung Oil, Watco, Hope, Woodriver pure"
+        ]
+      },
+      {
+        "text": "Unfinished metals such as stainless, gold, silver, copper, brass, etc.",
+        "value": 4,
+        "pros": [
+          "No extra chemical or manufacturing required"
+        ],
+        "cons": [
+          "Difficult to quantify. Most likely would need a contact adhesive to laminate product"
+        ]
+      },
+      {
+        "text": "Wax, from bees and plants",
+        "value": 4,
+        "pros": [
+          "No petroleum in product life cycle"
+        ],
+        "alternatives": [
+          "Try: Animal Waxes - Beeswax, Lanolin (sheep's wool); Vegetable Waxes - Carnauba, Candelilla, Soy"
+        ]
+      },
+      {
+        "text": "Paints, Coatings and/or Adhesives with low/no VOC colorants, such as Behr brand, Benjamin Moore Natura/Aura or ChemLink brand caulking",
+        "value": 4,
+        "pros": [
+          "No potentially harmful organic solvents; safer to apply and better for indoor air quality. (The definition of â€œzeroâ€ is actually <5g/l) Paints and coatings that have the colorant added at the retail store may actually have a lot more VOC from the colorants rather than the paint. There are no-VOC paints and colorants available."
+        ],
+        "alternatives": [
+          "FYI: Beware of VOC of colorants but, Behr, the Home Depot house brand, with zero-VOC versions of semi-gloss, flat interior, eggshell, and base finishes or Benajmin Moore Natura/Aura",
+          "Try: <a href='http://www.greenbuildingsupply.com/All-Products/Paints-Coatings-Caulks-Sealants-Adhesives' target='_blank'>Green Adhesives &amp; Caulkings</a>",
+          "More info: <a href='http://www.greenamerica.org/livinggreen/paints.cfm' target='_blank'>Best Brands to Buy</a>"
+        ]
+      },
+      {
+        "text": "Paints and coatings with a recycled content between 10% and 75%",
+        "value": 3,
+        "pros": [
+          "Some communities and suppliers offer recycled or off spec paints"
+        ]
+      },
+      {
+        "text": "Paints, Coatings, and/or Adhesives with low VOCs, such as Minwax Polyacrylic sealers, Green Seal and EcoLogo-certified paints",
+        "value": 3,
+        "pros": [
+          "Paints with low VOCs and without the listed harmful auxiliary compounds have a lower toxicity and are safer to work with"
+        ],
+        "cons": [
+          "Colorants added at the retail store may increase the VOCs; look for low/no VOC colorants as well as paints. This can be hard to source, as manufactures often donâ€™t list entire product components"
+        ],
+        "alternatives": [
+          "Grainger offers Green Seal- and EcoLogo-certified paints and EcoLogo-certified floor coating products. The online catalogue offers a range of green listings. Fastenal also offers Green Seal-certified paints as well as paints and coatings that are compliant with the VOC limits established by the South Coast Air Quality Management District (SCAQMD)."
+        ]
+      },
+      {
+        "text": "PVA adhesive, aka common white and yellow glue",
+        "value": 3,
+        "pros": [
+          "Low toxicity, easy to clean up."
+        ],
+        "alternatives": [
+          "Try <a href='http://www.thegreenproductscompany.com/adhesive/egwood.htm' target='_blank'>ECO Glue</a>"
+        ]
+      },
+      {
+        "text": "Water-based paints",
+        "value": 3,
+        "pros": [
+          "Water-based paints typically mean less VOCs in the paint and no solvents used for cleanup (water cleanup)"
+        ],
+        "cons": [
+          "Biocides are used to both help preserve paint in the can and on the surface; these can be harmful to users"
+        ],
+        "alternatives": [
+          "Try: Rust Oleum and Varathane brand, water based products; sold at most hardware stores"
+        ]
+      },
+      {
+        "text": "Petroleum-based wax",
+        "value": 3
+      },
+      {
+        "text": "Paints and coatings with a recycled content of less than 10%",
+        "value": 2
+      },
+      {
+        "text": "Anodizing (without chromium acid)",
+        "value": 2
+      },
+      {
+        "text": "Cold zinc plating, such as CRC or ZRC spray-on cold zinc products",
+        "value": 2
+      },
+      {
+        "text": "Low VOC paints, coatings, adhesives such as Concrete Floor paint and many Rust-oleum products (50-250 g/l)",
+        "value": 2
+      },
+      {
+        "text": "Shellac",
+        "value": 1
+      },
+      {
+        "text": "Silicone adhesives such as Loctite, Permatex, DAP",
+        "value": 1
+      },
+      {
+        "text": "Acid etching",
+        "value": 1
+      },
+      {
+        "text": "Oil Based Paints, such as many Rust-oleum brand metallic paints, and oil based sprays",
+        "value": 1
+      },
+      {
+        "text": "Boiled linseed oil",
+        "value": 1
+      },
+      {
+        "text": "Barge contact cement",
+        "value": 1
+      },
+      {
+        "text": "Danish oil",
+        "value": 1
+      },
+      {
+        "text": "Greater than 250 g/l VOC paints",
+        "value": 1
+      },
+      {
+        "text": "Low VOC polyurethane paints, coatings, adhesives (50-250 g/l)",
+        "value": 1
+      },
+      {
+        "text": "Synthetic Lacquer, such as Tamiya Spray paints",
+        "value": 1
+      },
+      {
+        "text": "Epoxy resin and adhesives",
+        "value": 0
+      },
+      {
+        "text": "High VOC polyurethane paints, coatings, adhesives (>250 g/l)",
+        "value": 0
+      },
+      {
+        "text": "Metal plating including hot zinc plating (galvanizing)",
+        "value": 0
+      },
+      {
+        "text": "Resorcinol Adhesives, such as many contact cements and Weldwood Resin Glue",
+        "value": 0
+      },
+      {
+        "text": "Urea formaldehyde adhesives",
+        "value": 0
+      }
+    ]
+  },
+
+  {
+    "title": "Textiles",
+    "choices": [{
+        "text": "Textiles with recycled content greater than 75% (except those incorporating any material with a -2 score)",
+        "value": 4,
+        "pros": [
+          "Includes textiles constructed from recycled natural fibers that have been shredded and re-spun in to yarn.",
+          "Thrift store/recycled fabric is a great resource."
+        ],
+        "cons": [
+          "Quality of material is typically lower than the virgin version with the exception of chemically recycled polyester which is equal in quality."
+        ]
+      },
+      {
+        "text": "Organic, Bio-Based Polymers, such as polyester that extracted and purified from the bacteria, which is more ductile, less elastic, and biodegradable",
+        "value": 4,
+        "pros": [
+          "Derived from agricultural (corn, soy, castor, cotton waste) and forest products (wood) that use plant based chemistry to create fibers."
+        ],
+        "cons": [
+          "No certified organic biopolymers are commercially available."
+        ]
+      },
+      {
+        "text": "Organic Cotton, Hemp, Linen, Wool",
+        "value": 4,
+        "pros": [
+          "Organically produced fibers have a lower environmental impact compared to conventional farming practices."
+        ],
+        "cons": [
+          "Cotton is very water intensive crop. Wool processing generates a high rate of contaminated wastewater that requires treatment."
+        ],
+        "alternatives": [
+          "Try <a href='https://organiclifestyle.com/organic-cotton/source-organic-fabrics-bulk-or-wholesale' target='_blank'>Organic Lifestyle Wholesale Fabrics</a>",
+          "Also try <a href='http://www.simplififabric.com/pages/wholesale-custom-ordering' target='_blank'>Simplifi Fabric Whilesale</a>"
+        ]
+      },
+      {
+        "text": "Blends of certified organic fibers",
+        "value": 4,
+        "pros": [
+          "Blends of organic fibers have the same attributes as a single organic fiber."
+        ],
+        "cons": [
+          "Blends can be harder to recycle and might require more chemistry in the dye and finishing processes"
+        ]
+      },
+      {
+        "text": "Textiles with a recycled content between 10% and 75%",
+        "value": 3,
+        "pros": [
+          "Lower recycled content reduces the environmental benefits of recycled fibers, although overall it is still favorable to unrecycled"
+        ]
+      },
+      {
+        "text": "NON-GMO Biopolymers",
+        "value": 3,
+        "pros": [
+          "Biobased polymers from conventional sources can have a moderate environmental impact, due primarily to the use of synthetic pesticides and fertilizers in conventional crop production. The primary benefit is in reduced energy use."
+        ]
+      },
+      {
+        "text": "Green Cotton, such as \"Better Cotton\" used by companies like Levi Strauss",
+        "value": 3,
+        "pros": [
+          "Grown conventionally following integrated pest management practices that are similar to organic growing practices. Some types are handpicked to reduce chemical use in harvesting."
+        ],
+        "cons": [
+          "Unless dry farmed, cotton is a water-intensive crop."
+        ],
+        "alternatives": [
+          "More info: <a href='http://bettercotton.org/' target='_blank'>Better Cotton Initiative</a>"
+        ]
+      },
+      {
+        "text": "Hemp, linen, ramie, jute conventionally grown",
+        "value": 3,
+        "pros": [
+          "These â€œbastâ€ fibers typically require less synthetic pesticides and fertilizers as compared to conventionally grown cotton. Hemp requires the least pesticide use."
+        ],
+        "cons": [
+          "Breaking down the chemical structure of the plant stalk so that the fiber can be easily separated (retting) can be chemically intensive; ramie in particular requires degumming, typically with caustic soda (sodium hydroxide/lye)."
+        ]
+      },
+      {
+        "text": "Certified organic fibers/polyester blend",
+        "value": 3,
+        "pros": [
+          "This blend benefits from the organic cotton content and cotton poly blends can be more readily recycled than other fiber blends. A poly blend might require less maintenance than a 100% cotton textile."
+        ],
+        "cons": [
+          "This blend could require more chemicals to dye and finish as sometimes two separated chemistry are required to dye the cotton and polyester fibers."
+        ]
+      },
+      {
+        "text": "Colored cotton, such as that used by Foxfibre Products",
+        "value": 3,
+        "pros": [
+          "Colored fibers don't require the dye chemistry and processing."
+        ],
+        "cons": [
+          "Limited color choices, conventional grown colored cotton still uses potentially harmful synthetic pesticides."
+        ],
+        "alternatives": [
+          "Try <a href='http://www.foxfibrecolorganic.com/en/fox-fibre-cotton/' target='_blank'>Foxfibre Products</a>"
+        ]
+      },
+      {
+        "text": "Textiles with a recycled content less than 10%",
+        "value": 2
+      },
+      {
+        "text": "Polypropylene, found in ropes, thermal underwear and carpets",
+        "value": 2
+      },
+      {
+        "text": "Tencel (lyocell) - which is a form of rayon that shares properties with cotton, linen, ramie and viscose rayon",
+        "value": 2
+      },
+      {
+        "text": "Acetate",
+        "value": 1
+      },
+      {
+        "text": "Acrylic",
+        "value": 1
+      },
+      {
+        "text": "Cotton, conventional - most commonly used",
+        "value": 1
+      },
+      {
+        "text": "Nylon",
+        "value": 1
+      },
+      {
+        "text": "Polyester",
+        "value": 1
+      },
+      {
+        "text": "Modal type rayon, found in pajamas, towels, bathrobes, underwear and bedsheets",
+        "value": 1
+      },
+      {
+        "text": "Bamboo Rayon",
+        "value": 0
+      },
+      {
+        "text": "Fluorofibers (PTFE), used in active wear and medical clothing",
+        "value": 0
+      },
+      {
+        "text": "PVC",
+        "value": 0
+      },
+      {
+        "text": "Rayon, generic",
+        "value": 0
+      },
+      {
+        "text": "Spandex (e.g. Lycra)",
+        "value": 0
+      }
+    ]
+  },
+
+  {
+    "title": "Plastics and Foam",
+    "choices": [{
+        "text": "75% recycled Plastics",
+        "value": 4,
+        "pros": [
+          "Using materials with a high recycled content reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials"
+        ]
+      },
+      {
+        "text": "Reuse plastics and foams",
+        "value": 4,
+        "pros": [
+          "Reusing materials is even better than using materials with recycled content as there are almost no impacts related to the reprocessing of the materials. This reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials."
+        ]
+      },
+      {
+        "text": "Plastics and foams with recycled content between 10% and 75%",
+        "value": 3,
+        "pros": [
+          "Using materials with a moderate recycled content reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials."
+        ]
+      },
+      {
+        "text": "Polypropylene, found in water bottles, medical supplies, hinges, chairs",
+        "value": 3,
+        "pros": [
+          "(#5 plastic) requires relative little energy and water as compared to other plastics and its manufacture uses less harmful chemical intermediates."
+        ],
+        "cons": [
+          "Not currently commonly recycled in municipal waste systems."
+        ]
+      },
+      {
+        "text": "Polyethylene (LDPE, HDPE, LLDPE and UHMWPE), primarily used in packaging (plastic bags, films, containers)",
+        "value": 3,
+        "pros": [
+          "Polyethylene requires relative little energy and water as compared to other plastics and its manufacture uses less harmful chemical intermediates. Both HDPE (#2 plastic) and LDPE (#4 plastic) are commonly recycled in municipal waste systems."
+        ]
+      },
+      {
+        "text": "Polyester (PET), antimony free",
+        "value": 3,
+        "pros": [
+          "PET (#1 plastic) is commonly recycled in both industrial and municipal waste streams. Recycled PET can be used in many applications â€“ from structural materials to textiles. Antimony free PET does not contain antimony trioxide (as commonly available PET does) which is considered a possible human carcinogen."
+        ]
+      },
+      {
+        "text": "10% or less PCR Plastic and Foams",
+        "value": 2
+      },
+      {
+        "text": "Polyester (PET)",
+        "value": 2
+      },
+      {
+        "text": "Bioplastics and foams (e.g. PLA, PDO)",
+        "value": 2
+      },
+      {
+        "text": "Ethylene vinyl acetate (EVA), such as hot glue sticks and plastic wrap",
+        "value": 2
+      },
+      {
+        "text": "Latex",
+        "value": 2
+      },
+      {
+        "text": "Surlyn",
+        "value": 2
+      },
+      {
+        "text": "Silicone",
+        "value": 2
+      },
+      {
+        "text": "Acrylic ('Plexiglass')",
+        "value": 1
+      },
+      {
+        "text": "Delrin, used in automotive and consumer electronics, lock systems, fasteners, ski bindings, knife handles, gear wheels",
+        "value": 1
+      },
+      {
+        "text": "Melamine, used in insulation, soundproofing material, dry erase boards, and in polymeric cleaning products, such as Magic Eraser",
+        "value": 1
+      },
+      {
+        "text": "Neoprene, found in hoses, gaskets, weather stripping, and various padding",
+        "value": 1
+      },
+      {
+        "text": "Nylon",
+        "value": 1
+      },
+      {
+        "text": "Phenol-formaldehyde resins",
+        "value": 1
+      },
+      {
+        "text": "Polystyrene (PS), or Styrofoam",
+        "value": 1
+      },
+      {
+        "text": "Polytetrafluoroethylene (PTFE), or Teflon, used as waterproofing/to coat fabrics, thread seal tape, among other uses",
+        "value": 1
+      },
+      {
+        "text": "Polyester resins (MEK hardener), such as sheet molding compound and toner in laser printers",
+        "value": 1
+      },
+      {
+        "text": "Polyurethane (PU) and polyurethane foams such as upholstery foam, hard solid plastics used as electronic instrument bezels and structural parts or flexible plastics used as straps and bands.",
+        "value": 0
+      },
+      {
+        "text": "Acrylonitrile butadiene styrene (ABS), or formed plastics such as instruments, legos, luggage parts and protective headgear",
+        "value": 0
+      },
+      {
+        "text": "Epoxy resins and laminates",
+        "value": 0
+      },
+      {
+        "text": "Polycarbonate (PC), such as clear thermoplastic",
+        "value": 0
+      },
+      {
+        "text": "Polyvinyl chloride (PVC), such as PVC tubing",
+        "value": 0
+      },
+      {
+        "text": "Styrene butadiene rubber (SBR) such as pneumatic tires, shoe soles, gaskets, and coated papers",
+        "value": 0
+      },
+      {
+        "text": "Urea-formaldehyde resins, such as Great Stuff brand expanding foam, and it is found in particle board, and MDF",
+        "value": 0
+      }
+    ]
+  },
+
+  {
+    "title": "Wood Products",
+    "choices": [{
+        "text": "Wood products with recycled post-consumer content greater than 75%",
+        "value": 4
+      },
+      {
+        "text": "FSC certified woods",
+        "value": 4,
+        "pros": [
+          "The Forest Stewardship Council is recognized worldwide as independent organization that establishes certification and labeling standards ensuring that sustainability of the management of forest products. Other parties certify forest management and/or wood products to the FSC standards. In addition to virgin wood certification, FSC standards are also available for recycled wood products."
+        ],
+        "alternatives": [
+          "More info: <a href='https://us.fsc.org/en-us' target='_blank'>FSC Website</a>"
+        ]
+      },
+      {
+        "text": "Cork",
+        "value": 4,
+        "pros": [
+          "Cork can be sustainably harvested in a low impact manner"
+        ]
+      },
+      {
+        "text": "Reclaimed wood or wood products",
+        "value": 4,
+        "pros": [
+          "Reusing materials is even better than using materials with recycled content as there are almost no impacts related to the reprocessing of the materials. This reduces waste and greatly reduces the environmental and human health impacts related to harvesting and processing wood products."
+        ]
+      },
+      {
+        "text": "Homasote",
+        "value": 4,
+        "pros": [
+          "Homasote is a brand name generally cellulose based fiber wallboard. Homasote is made up of recycled paper which is compressed and held together with a small amount of non-toxic PVA glue."
+        ]
+      },
+      {
+        "text": "Revolution Plywood from Patriot Timber",
+        "value": 3,
+        "pros": [
+          "High quality product with National Green Building Standard certification. Consistent, comparable to lauan but responsibly farmed from sustainable plantations. Price is comparable to lauan."
+        ],
+        "cons": [
+          "Pinkish tint is not conducive to staining, but it can be done. Shipped from China."
+        ]
+      },
+      {
+        "text": "Wood products with recycled post-consumer content between 10% and 75%",
+        "value": 3,
+        "pros": [
+          "Using wood products with a moderate recycled content reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials."
+        ]
+      },
+      {
+        "text": "Sustainable Forest Initiative (SFI) certified",
+        "value": 3,
+        "pros": [
+          "The Sustainable Forest Initiative is an independent certification and standard setting organization focusing on US and Canadian forests ensuring that wood products are from well managed forests; originally established by the American forestry industry."
+        ],
+        "cons": [
+          "On some issues the SFI standards are less stringent than FSC."
+        ]
+      },
+      {
+        "text": "Canadian Standards Association (CSA) certified",
+        "value": 3,
+        "pros": [
+          "The Canadian Standards Association (CSA) is similar to SFI and focused exclusively on Canada wood harvested from well managed forests."
+        ],
+        "cons": [
+          "On some issues CSA standards are less stringent than FSC."
+        ],
+        "alternatives": [
+          "More info: <a href='http://www.csagroup.org' target='_blank'>CSA Website</a>"
+        ]
+      },
+      {
+        "text": "American Tree Farm Systems (ATFS)",
+        "value": 3,
+        "pros": [
+          "ATFS focuses on certifying forestry practices of non-industrial private landowners in the U.S."
+        ],
+        "cons": [
+          "On some issues ATFS standards are less stringent than FSC."
+        ],
+        "alternatives": [
+          "More info: <a href='https://www.treefarmsystem.org/' target='_blank'>ATFS Website</a>"
+        ]
+      },
+      {
+        "text": "Domestic hardwoods such as Ash, Beech, Cherry, Maple, Oak, and/or Poplar)",
+        "value": 3,
+        "pros": [
+          "Most domestic hardwoods are from small woodlot owners managing long-term productivity."
+        ],
+        "cons": [
+          "While wood volume may be managed for maintenance of supply over the long term, forest management practices may not meet expectations of certification systems for Habitat value."
+        ]
+      },
+      {
+        "text": "Lyptus",
+        "value": 3,
+        "pros": [
+          "Trade name for Eucalyptus lumber products. Fast growing species that produces high levels of biomass per acre. Lands include some native species."
+        ],
+        "cons": [
+          "Plantations replaced agricultural and grazing lands that owners had cleared from native tropical forests."
+        ]
+      },
+      {
+        "text": "Raffia",
+        "value": 3,
+        "pros": [
+          "Leaves from a species of large palm tree that are stripped, dried, and turned into fiber strands."
+        ],
+        "cons": [
+          "Often grown in plantations that replace native habitat."
+        ]
+      },
+      {
+        "text": "Rubberwood",
+        "value": 3,
+        "pros": [
+          "Use of wood from trees removed from Latex production because they were too old, these trees used to be slashed and burned but now new markets are being created for this by-product."
+        ]
+      },
+      {
+        "text": "Bamboo",
+        "value": 2
+      },
+      {
+        "text": "Wicker",
+        "value": 2
+      },
+      {
+        "text": "Wood products with recycled content less than 10%",
+        "value": 2
+      },
+      {
+        "text": "Fiber boards made from agricultural waste",
+        "value": 2
+      },
+      {
+        "text": "Domestic softwoods such as Pine, Fir, Spruce, Cypress, or Cedar",
+        "value": 2
+      },
+      {
+        "text": "Engineered woods including plywood, chipboard, fiberboard, MDO (medium density overlay plywood), OSB (oriented strand board), MDF (medium density fiberboard), hardboard (e.g. Masonite)",
+        "value": 2
+      },
+      {
+        "text": "Boron-based Preservatives: Bora-Care&reg;, Tim-Bor&reg;, Shellguard&reg;, and Guardian&reg;",
+        "value": 2
+      },
+      {
+        "text": "ACQ Preserve Treated Wood: Preserve&reg; and Preserve Plus&reg;, NatureWood&reg;, ProGuard",
+        "value": 1
+      },
+      {
+        "text": "Veneers from threatened species such as Mahogany, Rosewood, and Japanese Oak",
+        "value": 1
+      },
+      {
+        "text": "Endangered woods including Mahogany, Spanish Cedar, Red Stinkwood, and Rosewood",
+        "value": 1
+      },
+      {
+        "text": "Virgin clear-cut old growth",
+        "value": 1
+      },
+      {
+        "text": "Lauan products (non-FSC certified)",
+        "value": 1
+      },
+      {
+        "text": "Wolmanized&reg; pressure treated Lumber (CCA)",
+        "value": 0
+      },
+      {
+        "text": "Melamine laminate woods",
+        "value": 0
+      }
+    ]
+  },
+
+  {
+    "title": "Metals",
+    "choices": [{
+        "text": "Metals with a recycled content greater than 75%",
+        "value": 4,
+        "pros": [
+          "Using materials with a high recycled content reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials. **Made in American steel has a minimum of 28% recycled content. According to our sources, steel worked in electric arc furnaces yeild 90% recycled content. It is simple to ask your dealer about where their steel is manufactured. If they don't know, they will be interested to find out."
+        ],
+        "cons": [
+          "Exceptions to this would be the use of toxic metals such as lead and mercury"
+        ]
+      },
+      {
+        "text": "Reused metals",
+        "value": 4,
+        "pros": [
+          "Reusing materials without processing is even better than using materials with recycled content as there are almost no impacts related to the reprocessing of the materials. This reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials."
+        ]
+      },
+      {
+        "text": "Metals with a recycled content between 10% and 75%",
+        "value": 3,
+        "pros": [
+          "Using materials with a moderate recycled content reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials. **Made in American steel has a minimum of 28% recycled content."
+        ],
+        "cons": [
+          "Exceptions to this would be the use of toxic metals such as lead and mercury."
+        ]
+      },
+      {
+        "text": "Brass",
+        "value": 3,
+        "pros": [
+          "Most commonly available brass has recycled content. Brass does not require surface treatments such as paints or coatings."
+        ],
+        "cons": [
+          "As with all metals, mining practices and extraction of the metal from its ore can be very destructive of habitat and energy and chemically intensive."
+        ]
+      },
+      {
+        "text": "Copper",
+        "value": 3,
+        "pros": [
+          "Most commonly available copper recycled content (average is 45%). Copper does not require surface treatments such as paints or coatings"
+        ],
+        "cons": [
+          "As with all metals, mining practices and extraction of the metal from its ore can be very destructive of habitat and energy and chemically intensive; copper released to the environment can have adverse effects on aquatic life"
+        ]
+      },
+      {
+        "text": "Iron",
+        "value": 3,
+        "pros": [
+          "Most commonly available iron has recycled content"
+        ],
+        "cons": [
+          "Iron typically requires some sort of surface coating, i.e. paint, to protect it from oxidation damage (rust). As with all metals, mining practices and extraction of the metal from its ore can be very destructive of habitat and energy and chemically intensive"
+        ]
+      },
+      {
+        "text": "Pewter (lead-free)",
+        "value": 3,
+        "pros": [
+          "Pewter is an alloy of tin and copper that can have recycled content; it does not require a surface finish to resist destructive oxidation"
+        ],
+        "cons": [
+          "As with all metals, mining practices and extraction of the metal from its ore can be very destructive of habitat and energy and chemically intensive"
+        ]
+      },
+      {
+        "text": "Stainless steel",
+        "value": 3,
+        "pros": [
+          "Stainless steel is a mixture of steel with other metals, primarily chrome and nickel, to form an alloy that resists rusting; it is typically used with any surface treatment. Most commonly available stainless steel has some recycled content."
+        ],
+        "cons": [
+          "As with all metals, mining practices and extraction of the metals for the alloy from ore can be very destructive of habitat and energy and chemically intensive"
+        ]
+      },
+      {
+        "text": "Steel",
+        "value": 3,
+        "pros": [
+          "Steel is a mixture of iron with other metals in what's called an alloy. Most commonly available steel has recycled content (average is 20-25%)."
+        ],
+        "cons": [
+          "Steel typically requires some sort of surface coating, i.e. paint, to protect it from oxidation damage. As with all metals, mining practices and extraction of the metals for making steel from ore can be very destructive of habitat and energy and chemically intensive"
+        ]
+      },
+      {
+        "text": "Tin",
+        "value": 3,
+        "pros": [
+          "Tin does not require surface treatments such as paints or coatings"
+        ],
+        "cons": [
+          "As with all metals, mining practices and extraction of the metal from its ore can be very destructive of habitat and energy and chemically intensive. Some forms of tin are very toxic (tributyl tin).+ Tin does not require surface treatments such as paints or coatings."
+        ]
+      },
+      {
+        "text": "Zinc",
+        "value": 3,
+        "pros": [
+          "Zinc does not require surface treatments such as paints or coatings; zinc is often used in an alloy or as a plating metal over a substrate (zinc plating is called galvanizing). Most commonly available zinc has recycled content (average is 30%)"
+        ],
+        "cons": [
+          "As with all metals, mining practices and extraction of the metal from its ore can be very destructive of habitat and energy and chemically intensive. Zinc dust can cause metal fume fever; dust can be generated by grinding galvanized materials"
+        ]
+      },
+      {
+        "text": "Aluminum",
+        "value": 2
+      },
+      {
+        "text": "Gold",
+        "value": 1
+      },
+      {
+        "text": "Silver",
+        "value": 1
+      },
+      {
+        "text": "Alloys with low lead levels (less than 5%), such as some bronzes, old pewter",
+        "value": 1
+      },
+      {
+        "text": "Lead and alloys with higher lead levels (> 5%), such as tin bronze",
+        "value": 1
+      }
+    ]
+  },
+
+  {
+    "title": "Glass, Ceramics, Earthen Materials",
+    "choices": [{
+        "text": "Glass, ceramics, and mineral products with recycled content greater than 75%",
+        "value": 4,
+        "pros": [
+          "Using materials with a moderate recycled content reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials"
+        ]
+      },
+      {
+        "text": "Unfired clay products",
+        "value": 4,
+        "pros": [
+          "These materials have very low resource requirements and environmental impacts"
+        ],
+        "cons": [
+          "Mining on very large scales for these clays can have a negative impact on local habitat"
+        ]
+      },
+      {
+        "text": "Glass, ceramics and mineral products with recycled content between 10% and 75%",
+        "value": 3,
+        "pros": [
+          "Using materials with a moderate recycled content reduces waste and greatly reduces the environmental and human health impacts related to manufacturing virgin materials"
+        ]
+      },
+      {
+        "text": "Beverage bottle glass (clear, brown, green)",
+        "value": 3,
+        "pros": [
+          "These types of glass typically have a high recycle content which means that the mining impacts and energy requirements for producing virgin glass is reduced"
+        ],
+        "cons": [
+          "Glass manufacture requires a significant amount of energy to melt raw materials for making glass; use of recycled glass in making new glass reduces the energy used in the manufacturing process"
+        ]
+      },
+      {
+        "text": "Gems (tourmaline, quarts, etc)",
+        "value": 3,
+        "pros": [
+          "These types of gemstones commonly do not require the removal and displacement of huge amounts of earth to produce and require almost no resources to process once found."
+        ],
+        "cons": [
+          "Poor mining operations can still have negative impacts to habitat"
+        ]
+      },
+      {
+        "text": "Marble",
+        "value": 3,
+        "pros": [
+          "Marble does not require further processing after its initial quarry and cutting requirements."
+        ],
+        "cons": [
+          "Quarry operations can have negative impacts on habitat"
+        ]
+      },
+      {
+        "text": "Fiberglass, non-formaldehyde resin coated, such as Georgia-Pacific Chemicals resins and Johns Manville Formaldehyde-free insulation",
+        "value": 2
+      },
+      {
+        "text": "Glass, ceramics and mineral products (other than bottle and jars) recycled up to 10%",
+        "value": 2
+      },
+      {
+        "text": "Granite",
+        "value": 2
+      },
+      {
+        "text": "Slate",
+        "value": 2
+      },
+      {
+        "text": "Drywall (gypsum board)",
+        "value": 2
+      },
+      {
+        "text": "Non-recyclable glass such as blue glass, tempered/safety/Pyrex glass, drinking glass, window glass",
+        "value": 1
+      },
+      {
+        "text": "Concrete, such as Portland cement, sand and aggregate",
+        "value": 1
+      },
+      {
+        "text": "Ceramics with non-FDA approved glazes",
+        "value": 0
+      },
+      {
+        "text": "Fiberglass with formaldehyde binders",
+        "value": 0
+      },
+      {
+        "text": "Glass and epoxy resin laminates",
+        "value": 0
+      },
+      {
+        "text": "Leaded glass",
+        "value": 0
+      }
+    ]
+  }
+]
