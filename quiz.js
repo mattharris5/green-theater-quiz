@@ -15,7 +15,10 @@
 		'resetButton': $('.btn-reset'),
 		'assessment': $('.assessment'),
 		'bestChoicesLink': $('a.best-choices'),
-		'prosConsLink': $('a.pros-cons-toggle')
+		'prosConsLink': $('a.pros-cons-toggle'),
+		'submitScoresLink': $('a.submit-scores'),
+		'submitScoresFrame': $('#submitScores iframe'),
+		'googleUrl': 'https://docs.google.com/forms/d/e/1FAIpQLSczR4J7OaP_sctFaQa4Civaw5b4LlVgZDY4minV8__hA44obA/viewform?embedded=true&entry.1118291326='
 	};
 	
 	//
@@ -109,6 +112,13 @@
 			display.toggleControls(true)
 			display.summary()
 			display.grades()
+			results.prefillGoogle(results.tally(elements.quiz))
+		},
+		
+		// Update the embedded google form iFrame to pre-populate the total score.
+		prefillGoogle: function(scoreVal) {
+			var url = elements.googleUrl + scoreVal;
+			elements.submitScoresFrame.prop('src', url)
 		},
 		
 		// Keep the results but show the quiz form again.
